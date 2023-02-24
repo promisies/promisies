@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?诺诺祝您今天愉快!&center=true&size=27"> </a> </h1>
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?诺诺祝您今天愉快!&center=true&size=27"> </h1>
 <img src="https://github-readme-stats.vercel.app/api?username=promisies&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /\>
 
 
@@ -8,7 +8,4 @@
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
-#### Latest Blog Posts
-
-< !-- BLOG-POST-LIST:START -->
-< !-- BLOG-POST-LIST:END -->
+<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=promisies&theme=xcode" /></div>
