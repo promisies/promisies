@@ -8,4 +8,4 @@
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
-<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=promisies&theme=xcode" /></div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=promisies&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
