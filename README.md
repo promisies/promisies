@@ -8,4 +8,5 @@
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=promisies&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=promisies&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
