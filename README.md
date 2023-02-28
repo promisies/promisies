@@ -1,5 +1,5 @@
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?诺诺祝您今天愉快!&center=true&size=27"> </h1>
-<img src="https://github-readme-stats.vercel.app/api?username=promisies&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /\>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=37&duration=4000&pause=4998&color=F767D2FF&vCenter=true&repeat=false&width=435&lines=Welcome+your+coming!" alt="Typing SVG" /> </h1>
+
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
@@ -8,5 +8,6 @@
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
-![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+<h1 align="center"> <img src="https://profile-counter.glitch.me/all-smile/count.svg" /> </h1>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=promisies&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
