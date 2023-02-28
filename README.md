@@ -1,4 +1,5 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=37&duration=4000&pause=4998&color=F767D2FF&vCenter=true&repeat=false&width=435&lines=Welcome+your+coming!" alt="Typing SVG" /> </h1>
+# 🎉 Welcome to promisies's Github Homepage!
+<h1 align="right"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=4000&pause=4998&color=F767D2FF&vCenter=true&repeat=false&width=435&lines=Hi,+ visitor" alt="Typing SVG" /> </h1>
 
 
 
