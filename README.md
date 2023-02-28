@@ -1,7 +1,7 @@
 # 🎉 Welcome to promisies's Github Homepage!
 <h3 align="right"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=4998&color=F767D2FF&vCenter=true&repeat=false&width=435&lines=Hi,+ visitor🌹" alt="Typing SVG" /> </h1>
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
+[![Header](https://raw.githubusercontent.com/promisies/promisies/main/header-bg.png "Header")](https://martinheinz.dev/)
 
 I'm a web front end developer trying to learn more than I was yesterday
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
