@@ -32,7 +32,7 @@ I'm a web front end developer trying to learn more than I was yesterday
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/promisies/promisies">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=promisies&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=promisies&hide=java,html,text&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
 <a href="https://github.com/promisies/promisies">
